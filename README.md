@@ -2,7 +2,6 @@
 
 > A front-end screening assignment implementation built with React (CDN), vanilla CSS, and live public APIs.
 
-![BOXpad Preview](public/preview-placeholder.txt)
 
 ---
 
